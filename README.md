@@ -5,3 +5,8 @@ test markdown code
 
 > [!NOTE]
 > This is another attempt at an alert
+
+[link to other](other.md]
+
+> [!WARNING]
+> link to [other](other.md) in an alert
