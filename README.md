@@ -21,6 +21,6 @@ link to [/sub](/sub)
 link to [sub/subfile.md](sub/subfile.md)
 link to [/sub/subfile.md](/sub/subfile.md)
 
-> :page_faing_up:
+> :page_facing_up:
 > link to [sub/subfile.md](sub/subfile.md)
 > link to [/sub/subfile.md](/sub/subfile.md)
