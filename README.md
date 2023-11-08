@@ -10,3 +10,17 @@ test markdown code
 
 > [!WARNING]
 > link to [other](other.md) in an alert
+
+link to [sub](sub)
+link to [/sub](/sub)
+
+> [!IMPORTANT]
+> link to [sub](sub)
+> link to [/sub](/sub)
+
+link to [sub/subfile.md](sub/subfile.md)
+link to [/sub/subfile.md](/sub/subfile.md)
+
+> [!IMPORTANT]
+> link to [sub/subfile.md](sub/subfile.md)
+> link to [/sub/subfile.md](/sub/subfile.md)
